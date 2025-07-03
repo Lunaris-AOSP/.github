@@ -9,7 +9,7 @@ Lunaris-AOSP is a custom ROM based on AOSP, featuring an extensive range of cust
 - **CLO for qcom changes**
 - **YAAP (Yet Another AOSP Project)**
 - **InfinityOS**
-- **Project Parasite**
+- **Voltage OS**
 - **And many more**
 
 ## Features
