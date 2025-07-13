@@ -3,6 +3,7 @@
 Lunaris-AOSP is a custom ROM based on AOSP, featuring an extensive range of customizations cherry-picked from various custom ROMs, including:
 
 - **Lineage For vendor base**
+- **Axion for Boostframework and QS redesign**
 - **TenXOS for verious UI idea and changes**
 - **crDroid and axion For cherry-picked customizetion**
 - **EvolutionX For GMS stuff**
