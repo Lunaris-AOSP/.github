@@ -34,3 +34,7 @@ Lunaris AOSP may contain a few commits with improper authorization. To avoid unn
 A huge thanks to the developers of all the ROMs from which Lunaris AOSP cherry-picks features, as well as the Android open-source community for making all this possible.
 
 ---
+
+## Group
+https://t.me/ghost_pong
+https://t.me/pongbuild
