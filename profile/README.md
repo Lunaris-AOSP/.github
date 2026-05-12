@@ -1,29 +1,30 @@
 # Lunaris AOSP
 
-Lunaris-AOSP is a custom ROM based on AOSP, featuring an extensive range of customizations cherry-picked from various custom ROMs, including:
+Lunaris-AOSP is a custom ROM based on AOSP, featuring a wide range of customizations and improvements cherry-picked from various custom ROM projects, including:
 
-- **Lineage For vendor base**
-- **crDroid for various UI changes and different source bases**
-- **DerpFest and AxionAOSP For some customizetion**
-- **Project clover For GMS stuff**
-- **EvolutionX for PixelProps**
+- **LineageOS** for vendor base
+- **crDroid** for UI changes and additional source integrations
+- **DerpFest** and **AxionAOSP** for customization features
+- **Project Clover** for GMS-related implementations
+- **Evolution X** for PixelProps
 - **YAAP (Yet Another AOSP Project)**
-- **Neoteric OS**
+- **NeotericOS**
 - **AOSPA**
 - **InfinityX**
-- **Voltage OS**
+- **VoltageOS**
 - **And many more**
 
 ## Features
 
-Lunaris AOSP brings a balanced mix of performance, smoothness, and customization while keeping stability in mind. Some of its notable features include:
+Lunaris AOSP delivers a balanced experience focused on performance, smoothness, stability, and customization. Some notable features include:
 
-- **Pixel features**
+- **Pixel-exclusive features**
 - **Advanced theming options**
-- **Port CAF changes**
+- **CAF improvements and optimizations**
 - **Customizable lockscreen and status bar**
-- **Performance optimizations**
-- **Many features from various ROMs merged together**
+- **Performance enhancements**
+- **Features merged from multiple ROM projects**
+- **Clean and smooth UI experience**
 
 ## Credits
 
@@ -32,4 +33,5 @@ A huge thanks to the developers of all the ROMs from which Lunaris AOSP cherry-p
 ---
 
 ## Group
+
 https://t.me/lunaris_hub
